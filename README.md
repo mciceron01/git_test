@@ -12,4 +12,4 @@ Bonjour Odin!
 
 et
 
-Bon soid odin!
+Bon soir odin!
