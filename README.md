@@ -7,3 +7,9 @@ Good bye odin
 Hola Odin!
 
 Adios Odin!
+
+Bonjour Odin!
+
+et
+
+Bon soid odin!
